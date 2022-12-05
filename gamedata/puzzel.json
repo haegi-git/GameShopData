@@ -3,7 +3,7 @@
     "title" : "Baba is You",
     "price" : 15500,
     "genre" : "puzzel",
-    "img" : "https://github.com/haegi-git/GameShopData/blob/main/gamedata/puzzel/babaisyou.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/puzzel/babaisyou.jpg"
 },
 {
     "id" : 2,
