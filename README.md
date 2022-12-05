@@ -1,0 +1,2 @@
+# GameShopData
+GameData Json
