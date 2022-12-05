@@ -1,0 +1,60 @@
+[{
+    "id" : 1,
+    "title" : "Baba is You",
+    "price" : 15500,
+    "genre" : "puzzel"
+},
+{
+    "id" : 2,
+    "title" : "Escape Simulator",
+    "price" : 15500,
+    "genre" : "puzzel"
+},
+{
+    "id" : 3,
+    "title" : "Human: Fall Flat",
+    "price" : 20500,
+    "genre" : "puzzel"
+},
+{
+    "id" : 4,
+    "title" : "ib",
+    "price" : 13500,
+    "genre" : "puzzel"
+},
+{
+    "id" : 5,
+    "title" : "Ibb&Obb",
+    "price" : 12500,
+    "genre" : "puzzel"
+},
+{
+    "id" : 6,
+    "title" : "It Takes Two",
+    "price" : 44000,
+    "genre" : "puzzel"
+},
+{
+    "id" : 7,
+    "title" : "Portal2",
+    "price" : 11000,
+    "genre" : "puzzel"
+},
+{
+    "id" : 8,
+    "title" : "SuperLiminal",
+    "price" : 20500,
+    "genre" : "puzzel"
+},
+{
+    "id" : 9,
+    "title" : "Trine4",
+    "price" : 31000,
+    "genre" : "puzzel"
+},
+{
+    "id" : 10,
+    "title" : "Unravel two",
+    "price" : 22000,
+    "genre" : "puzzel"
+}]

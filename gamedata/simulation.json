@@ -1,0 +1,60 @@
+[{
+    "id" : 1,
+    "title" : "Cities",
+    "price" : 32000,
+    "genre" : "simulation"
+},
+{
+    "id" : 2,
+    "title" : "Cooking Simulator",
+    "price" : 20500,
+    "genre" : "simulation"
+},
+{
+    "id" : 3,
+    "title" : "Dave The Diver",
+    "price" : 24000,
+    "genre" : "simulation"
+},
+{
+    "id" : 4,
+    "title" : "Pc Building Simulator",
+    "price" : 20500,
+    "genre" : "simulation"
+},
+{
+    "id" : 5,
+    "title" : "Planet Coaster",
+    "price" : 48750,
+    "genre" : "simulation"
+},
+{
+    "id" : 6,
+    "title" : "Planet Zoo",
+    "price" : 46000,
+    "genre" : "simulation"
+},
+{
+    "id" : 7,
+    "title" : "Simcity",
+    "price" : 22000,
+    "genre" : "simulation"
+},
+{
+    "id" : 8,
+    "title" : "Sims",
+    "price" : 0,
+    "genre" : "simulation"
+},
+{
+    "id" : 9,
+    "title" : "Stardew Valley",
+    "price" : 16000,
+    "genre" : "simulation"
+},
+{
+    "id" : 10,
+    "title" : "Timber Born",
+    "price" : 26000,
+    "genre" : "simulation"
+}]
