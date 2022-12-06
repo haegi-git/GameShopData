@@ -2,59 +2,69 @@
     "id" : 1,
     "title" : "7Days to Die",
     "price" : 26000,
-    "genre" : "survival"
+    "genre" : "survival",
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/7daystodie.jpg"
 },
 {
     "id" : 2,
     "title" : "Core Keeper",
     "price" : 13500,
-    "genre" : "survival"
+    "genre" : "survival",
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/corekeeper.png"
 },
 {
     "id" : 3,
     "title" : "Don't Starve Together",
     "price" : 15500,
-    "genre" : "survival"
+    "genre" : "survival",
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/dontstarve.png"
 },
 {
     "id" : 4,
     "title" : "Green Hell",
     "price" : 26000,
-    "genre" : "survival"
+    "genre" : "survival",
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/greenhell.jpg"
 },
 {
     "id" : 5,
     "title" : "Grounded",
     "price" : 39900,
-    "genre" : "survival"
+    "genre" : "survival",
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/grounded.jpg"
 },
 {
     "id" : 6,
     "title" : "Longvinter",
     "price" : 18500,
-    "genre" : "survival"
+    "genre" : "survival",
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/longvinter.jpg"
 },
 {
     "id" : 7,
     "title" : "MineCraft",
     "price" : 34000,
-    "genre" : "survival"
+    "genre" : "survival",
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/minecraft.png"
 },
 {
     "id" : 8,
     "title" : "Raft",
     "price" : 21000,
-    "genre" : "survival"
+    "genre" : "survival",
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/raft.jpg"
 },
 {
     "id" : 9,
     "title" : "SubNautica",
     "price" : 31000,
-    "genre" : "survival"
+    "genre" : "survival",
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/subnautica.jpg"
 },
 {
     "id" : 10,
     "title" : "The Forest",
     "price" : 20500,
-    "genre" : "survival"
+    "genre" : "survival",
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/theforest.jpg"
 }]
