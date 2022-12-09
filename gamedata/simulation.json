@@ -1,68 +1,68 @@
 [{
-    "id" : 1,
+    "id" : 100,
     "title" : "Cities",
     "price" : 32000,
     "genre" : "simulation",
     "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/cities.jpg"
 },
 {
-    "id" : 2,
+    "id" : 101,
     "title" : "Cooking Simulator",
     "price" : 20500,
     "genre" : "simulation",
     "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/cooking.jpg"
 },
 {
-    "id" : 3,
+    "id" : 102,
     "title" : "Dave The Diver",
     "price" : 24000,
     "genre" : "simulation",
     "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/dave.jpg"
 },
 {
-    "id" : 4,
+    "id" : 103,
     "title" : "Pc Building Simulator",
     "price" : 20500,
     "genre" : "simulation",
     "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/pcbuilding.jpg"
 },
 {
-    "id" : 5,
+    "id" : 104,
     "title" : "Planet Coaster",
     "price" : 48750,
     "genre" : "simulation",
     "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/planetcoaster.jpg"
 },
 {
-    "id" : 6,
+    "id" : 105,
     "title" : "Planet Zoo",
     "price" : 46000,
     "genre" : "simulation",
     "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/planetzoo.jpg"
 },
 {
-    "id" : 7,
+    "id" : 106,
     "title" : "Simcity",
     "price" : 22000,
     "genre" : "simulation",
     "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/simcity.jpg"
 },
 {
-    "id" : 8,
+    "id" : 107,
     "title" : "Sims",
     "price" : 0,
     "genre" : "simulation",
     "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/sims.jpg"
 },
 {
-    "id" : 9,
+    "id" : 108,
     "title" : "Stardew Valley",
     "price" : 16000,
     "genre" : "simulation",
     "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/stardewvalley.jpg"
 },
 {
-    "id" : 10,
+    "id" : 109,
     "title" : "Timber Born",
     "price" : 26000,
     "genre" : "simulation",
