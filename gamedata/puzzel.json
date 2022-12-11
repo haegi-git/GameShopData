@@ -3,68 +3,78 @@
     "title" : "Baba is You",
     "price" : 15500,
     "genre" : "puzzel",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/puzzel/babaisyou.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/puzzel/babaisyou.jpg",
+    "count" : 1
 },
 {
     "id" : 2,
     "title" : "Escape Simulator",
     "price" : 15500,
     "genre" : "puzzel",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/puzzel/escape.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/puzzel/escape.jpg",
+    "count" : 1
 },
 {
     "id" : 3,
     "title" : "Human: Fall Flat",
     "price" : 20500,
     "genre" : "puzzel",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/puzzel/humanfallflat.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/puzzel/humanfallflat.jpg",
+    "count" : 1
 },
 {
     "id" : 4,
     "title" : "ib",
     "price" : 13500,
     "genre" : "puzzel",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/puzzel/ib.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/puzzel/ib.jpg",
+    "count" : 1
 },
 {
     "id" : 5,
     "title" : "Ibb&Obb",
     "price" : 12500,
     "genre" : "puzzel",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/puzzel/ibbobb.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/puzzel/ibbobb.jpg",
+    "count" : 1
 },
 {
     "id" : 6,
     "title" : "It Takes Two",
     "price" : 44000,
     "genre" : "puzzel",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/puzzel/ittakestwo.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/puzzel/ittakestwo.jpg",
+    "count" : 1
 },
 {
     "id" : 7,
     "title" : "Portal2",
     "price" : 11000,
     "genre" : "puzzel",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/puzzel/portal.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/puzzel/portal.jpg",
+    "count" : 1
 },
 {
     "id" : 8,
     "title" : "SuperLiminal",
     "price" : 20500,
     "genre" : "puzzel",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/puzzel/superliminal.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/puzzel/superliminal.jpg",
+    "count" : 1
 },
 {
     "id" : 9,
     "title" : "Trine4",
     "price" : 31000,
     "genre" : "puzzel",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/puzzel/trine.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/puzzel/trine.jpg",
+    "count" : 1
 },
 {
     "id" : 10,
     "title" : "Unravel two",
     "price" : 22000,
     "genre" : "puzzel",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/puzzel/unraveltwo.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/puzzel/unraveltwo.jpg",
+    "count" : 1
 }]
