@@ -3,68 +3,78 @@
     "title" : "Cities",
     "price" : 32000,
     "genre" : "simulation",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/cities.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/cities.jpg",
+    "count" : 1
 },
 {
     "id" : 101,
     "title" : "Cooking Simulator",
     "price" : 20500,
     "genre" : "simulation",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/cooking.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/cooking.jpg",
+    "count" : 1
 },
 {
     "id" : 102,
     "title" : "Dave The Diver",
     "price" : 24000,
     "genre" : "simulation",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/dave.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/dave.jpg",
+    "count" : 1
 },
 {
     "id" : 103,
     "title" : "Pc Building Simulator",
     "price" : 20500,
     "genre" : "simulation",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/pcbuilding.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/pcbuilding.jpg",
+    "count" : 1
 },
 {
     "id" : 104,
     "title" : "Planet Coaster",
     "price" : 48750,
     "genre" : "simulation",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/planetcoaster.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/planetcoaster.jpg",
+    "count" : 1
 },
 {
     "id" : 105,
     "title" : "Planet Zoo",
     "price" : 46000,
     "genre" : "simulation",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/planetzoo.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/planetzoo.jpg",
+    "count" : 1
 },
 {
     "id" : 106,
     "title" : "Simcity",
     "price" : 22000,
     "genre" : "simulation",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/simcity.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/simcity.jpg",
+    "count" : 1
 },
 {
     "id" : 107,
     "title" : "Sims",
     "price" : 0,
     "genre" : "simulation",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/sims.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/sims.jpg",
+    "count" : 1
 },
 {
     "id" : 108,
     "title" : "Stardew Valley",
     "price" : 16000,
     "genre" : "simulation",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/stardewvalley.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/stardewvalley.jpg",
+    "count" : 1
 },
 {
     "id" : 109,
     "title" : "Timber Born",
     "price" : 26000,
     "genre" : "simulation",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/timberborn.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/timberborn.jpg",
+    "count" : 1
 }]
