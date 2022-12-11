@@ -3,68 +3,78 @@
     "title" : "7Days to Die",
     "price" : 26000,
     "genre" : "survival",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/7daystodie.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/7daystodie.jpg",
+    "count" : 1
 },
 {
     "id" : 201,
     "title" : "Core Keeper",
     "price" : 13500,
     "genre" : "survival",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/corekeeper.png"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/corekeeper.png",
+    "count" : 1
 },
 {
     "id" : 202,
     "title" : "Don't Starve Together",
     "price" : 15500,
     "genre" : "survival",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/dontstarve.png"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/dontstarve.png",
+    "count" : 1
 },
 {
     "id" : 203,
     "title" : "Green Hell",
     "price" : 26000,
     "genre" : "survival",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/greenhell.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/greenhell.jpg",
+    "count" : 1
 },
 {
     "id" : 204,
     "title" : "Grounded",
     "price" : 39900,
     "genre" : "survival",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/grounded.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/grounded.jpg",
+    "count" : 1
 },
 {
     "id" : 205,
     "title" : "Longvinter",
     "price" : 18500,
     "genre" : "survival",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/longvinter.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/longvinter.jpg",
+    "count" : 1
 },
 {
     "id" : 206,
     "title" : "MineCraft",
     "price" : 34000,
     "genre" : "survival",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/minecraft.png"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/minecraft.png",
+    "count" : 1
 },
 {
     "id" : 207,
     "title" : "Raft",
     "price" : 21000,
     "genre" : "survival",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/raft.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/raft.jpg",
+    "count" : 1
 },
 {
     "id" : 208,
     "title" : "SubNautica",
     "price" : 31000,
     "genre" : "survival",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/subnautica.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/subnautica.jpg",
+    "count" : 1
 },
 {
     "id" : 209,
     "title" : "The Forest",
     "price" : 20500,
     "genre" : "survival",
-    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/theforest.jpg"
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/theforest.jpg",
+    "count" : 1
 }]
