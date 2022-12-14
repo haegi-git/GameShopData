@@ -1,0 +1,36 @@
+{
+    "id" : 3,
+    "title" : "Human: Fall Flat",
+    "price" : 20500,
+    "genre" : "puzzel",
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/puzzel/humanfallflat.jpg",
+    "count" : 1
+},{
+    "id" : 102,
+    "title" : "Dave The Diver",
+    "price" : 24000,
+    "genre" : "simulation",
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/dave.jpg",
+    "count" : 1
+},{
+    "id" : 108,
+    "title" : "Stardew Valley",
+    "price" : 16000,
+    "genre" : "simulation",
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/simulation/stardewvalley.jpg",
+    "count" : 1
+},{
+    "id" : 205,
+    "title" : "Longvinter",
+    "price" : 18500,
+    "genre" : "survival",
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/longvinter.jpg",
+    "count" : 1
+},{
+    "id" : 207,
+    "title" : "Raft",
+    "price" : 21000,
+    "genre" : "survival",
+    "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/raft.jpg",
+    "count" : 1
+},
