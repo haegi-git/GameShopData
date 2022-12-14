@@ -1,4 +1,4 @@
-{
+[{
     "id" : 3,
     "title" : "Human: Fall Flat",
     "price" : 20500,
@@ -33,4 +33,4 @@
     "genre" : "survival",
     "img" : "https://raw.githubusercontent.com/haegi-git/GameShopData/main/gamedata/survival/raft.jpg",
     "count" : 1
-},
+}]
